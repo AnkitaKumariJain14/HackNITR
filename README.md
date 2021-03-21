@@ -22,6 +22,7 @@ Insect Bite Dataset - https://www.kaggle.com/bjoernjostein/tick-and-mosq
 COVID-19 Dataset - https://www.kaggle.com/himanshu007121/coughclassifier-trial
 Pneumonia Dataset - https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
+Link to insect.h5 file - [here](https://drive.google.com/file/d/13ON5fG6tMQvEyUDipGz9ablGWuDf0S53/view?usp=sharing)
 ## Future Development:
 Adding more disease like Cataract detection using Retina images classification, Brain tumor detection and classification, heart attack etc.
 Creating a GUI based application or Web page for easy access of the models.
